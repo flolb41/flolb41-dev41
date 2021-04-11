@@ -1,5 +1,5 @@
 # app-flo
-
+Exemple de micro-site pour freelance ou auto-entrepreneur. Site léger et très fluide.
 ## Project setup
 ```
 npm install
